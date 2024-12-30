@@ -1,1 +1,27 @@
+/* Styles for id 'yellow' */
+#yellow {
+    background-color: yellow;
+    border: 1px solid green;
+    padding: 10px; /* Optional: Adds spacing inside the border */
+    margin: 10px; /* Optional: Adds spacing between elements */
+    font-family: Arial, sans-serif; /* Optional: Improves text style */
+}
+
+/* Styles for id 'red' */
+#red {
+    background-color: red;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    font-family: Arial, sans-serif;
+}
+
+/* Styles for id 'green' */
+#green {
+    background-color: green;
+    border: 1px solid yellow;
+    padding: 10px;
+    margin: 10px;
+    font-family: Arial, sans-serif;
+}
 /*  your css code here. If applicable */
